@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MiFormularioMD</string>
+    <string name="campo_nombre">Nombre completo</string>
+    <string name="campo_telef">Telefono</string>
+    <string name="campo_mail">Email</string>
+    <string name="campo_desc">Descripcion del contacto</string>
+    <string name="titl_btn_sgte">Siguente</string>
+    <string name="titl_btn_editar">Editar Datos</string>
+    <string name="titl_fech_nac">Fecha de nacimiento</string>
+    <string name="titl_confir_datos">Confirmar Datos</string>
+    <string name="nombre_contacto">Nombre Completo: </string>
+    <string name="fech_nacimiento">Fecha de nacimiento: </string>
+    <string name="telefono">Telefono: </string>
+    <string name="email">Email: </string>
+    <string name="desc_contacto">Descripcion de contacto: </string>
+
+</resources>
